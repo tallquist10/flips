@@ -9,7 +9,7 @@ nuget coverlet.collector ~> 1
 nuget CsvHelper
 nuget FsCheck ~> 2
 nuget FsCheck.Xunit ~> 2
-nuget FSharp.Core
+nuget FSharp.Core ~> 5
 nuget FSharp.Data ~> 3
 nuget Google.OrTools ~> 9
 nuget MathNet.Numerics ~> 4
